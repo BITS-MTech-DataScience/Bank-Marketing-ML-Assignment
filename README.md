@@ -139,7 +139,7 @@ The default test dataset is `test_data.csv`. Alternatively, users can upload the
 
 ## 8. Links
 
-- **GitHub Repository:** [Add your GitHub repository URL]
+- **GitHub Repository:** https://github.com/BITS-MTech-DataScience/Bank-Marketing-ML-Assignment
 - **Live Streamlit Application:** [Add your deployed application URL]
 
 ## 9. Conclusion

@@ -95,7 +95,7 @@ Bank_Marketing_ML_Assignment/
 ├── README.md
 ├── test_data.csv
 ├── bank-additional-full.csv
-├── model_comparision_results.csv
+├── model_comparison_results.csv
 │
 └── model/
     ├── logistic_regression.pkl
